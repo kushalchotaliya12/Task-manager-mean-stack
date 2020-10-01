@@ -1,0 +1,98 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@kushalchotaliya12 
+IBM-Cloud
+/
+nodejs-MEAN-stack
+10
+3724
+Code
+Issues
+3
+Pull requests
+1
+Actions
+Projects
+Wiki
+Security
+Insights
+nodejs-MEAN-stack/.gitignore
+
+Ben Rondeau Added mongoconf
+Latest commit e811f27 on Feb 12, 2016
+ History
+ 0 contributors
+54 lines (47 sloc)  653 Bytes
+  
+# OS
+# ===========
+.DS_Store
+ehthumbs.db
+Thumbs.db
+.env
+TODO.md
+mongodb.conf
+
+# Node and related ecosystem
+# ==========================
+.nodemonignore
+.sass-cache/
+node_modules/
+public/lib/
+app/tests/coverage/
+.bower-*/
+.idea/
+coverage/
+data
+
+# Sublime editor
+# ==============
+.sublime-project
+*.sublime-project
+*.sublime-workspace
+
+# Eclipse project files
+# =====================
+.project
+.settings/
+.*.md.html
+.metadata
+*~.nib
+local.properties
+
+# IntelliJ
+# ========
+*.iml
+
+# Cloud9 IDE
+# =========
+.c9/
+data/
+mongodb.conf
+
+# Visual Studio
+# =========
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Courtesy of https://github.com/meanjs/mean/blob/master/.gitignore
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
