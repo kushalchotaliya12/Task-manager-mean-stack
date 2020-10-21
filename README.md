@@ -1,4 +1,4 @@
-# task-manager-mean-stack
+# Task-manager-mean-stack
 A real world application using MEAN(MongoDB, Express, Angular, Node.js) Stack technologies
 
 ## Features
