@@ -7,4 +7,4 @@ A real world application using MEAN(MongoDB, Express, Angular, Node.js) Stack te
 - Development of both client-side as well as serves-side functionality javascript frameworks
 
 ## App Design
-[![Application Design Illustration](App_Illustration.png)]
+![Application Design Illustration](App_Illustration.png)
